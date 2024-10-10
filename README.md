@@ -12,9 +12,12 @@
 - ⚡ Fun fact **im think im funny :D**
 
 <h3 align="left">Connect with me:</h3>
-- Mail **andirashwtf@proton.me**
-- Discord **estkhvh**
-- Revolt **andirash**
+
+- 💫 My email **andirashwtf@proton.me**
+
+- 🕳 Discord **estkhvh**
+
+- 💬 Revolt **andirash**
 <p align="left">
 </p>
 
