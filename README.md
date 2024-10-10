@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **andirashwtf@proton.me**
+- 📫 How to reach me: **andirashwtf@proton.me**
 
-- ⚡ Fun fact **im think im funnt :D**
+- ⚡ Fun fact **im think im funny :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
