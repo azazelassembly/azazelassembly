@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andirash&label=Profile%20views&color=0e75b6&style=flat" alt="andirash" /> </p>
 
-- 🔭 I’m currently working on **"The Sense"**
+- 🔭 I’m currently working on **"The Sense v2"**
 
 - 🌱 I’m currently learning **Python**
 
