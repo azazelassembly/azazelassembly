@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Andirash</h1>
+<h1 align="center">Hi 👋, I'm AzazelAssembly</h1>
 <h3 align="center">I am Intern developer from Ukraine, Kiev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andirash&label=Profile%20views&color=0e75b6&style=flat" alt="andirash" /> </p>
 
-- 🔭 I’m currently working on **"The Sense v2"**
+- 🔭 I’m currently working on **"Noting"**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C++\C#**
 
 - 💬 Ask me about **anything**
 
@@ -13,11 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- 💫 My email **andirashwtf@proton.me**
-
-- 🕳 Discord **estkhvh**
-
-- 💬 Revolt **andirash**
+- 💫 My email **azazelassembly@proton.me**
 <p align="left">
 </p>
 
