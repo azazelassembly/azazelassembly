@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vviear — Fullstack Developer</h1>
-<h3 align="center">PHP backend + frontend + Rust/h3>
+<h3 align="center">PHP backend + frontend + Rust </h3>
 
 <p align="center">
   <a href="mailto:azazelassembly@proton.me" target="_blank" rel="noopener">
